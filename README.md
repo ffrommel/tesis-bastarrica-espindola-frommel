@@ -12,7 +12,7 @@ En este repositorio se reúnen todos los códigos generados en el marco del proy
 Código desarrollado para Arduino que permite el manejo de los sensores y la comunicación entre ellos y con el Gateway.
 
 1. endpoint.ino
-2.configuration.h
+2. configuration.h
 
 ---
 
