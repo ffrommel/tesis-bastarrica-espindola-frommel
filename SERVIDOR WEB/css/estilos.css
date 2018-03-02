@@ -1,0 +1,192 @@
+
+/*Estilo de diferentes tags
+html,h1,h2,h3,h4,h5,label {
+    font-family: "Open Sans", sans-serif
+}*********************************************/
+
+body{
+    font-family: "Open Sans", sans-serif;
+    margin-top: 10%;
+    margin: 20px 20px 200px 0px
+}
+/**********************************************************/
+html{
+    background: white;
+}
+
+/*Cabezal*/
+#menuBar{
+    background-color:#414141
+}
+
+li{
+    margin-left: 0
+}
+
+h1{
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    margin-top: 6%;
+    margin-bottom: 50px;
+    color:#414141    
+      
+}
+#cabezal{
+    padding: 0 0 0 0
+}
+
+#pastoFinal{
+    width: 100%
+}
+
+.imgIndex{
+    border-radius: 10px;
+    box-shadow: 0 0 15px #ddd;
+    background: #fff;
+ 
+    
+}
+.grow { transition: all .3s ease-in-out; }
+.grow:hover { transform: scale(1.5); }
+
+
+
+.subtitle{
+    font-size: 20px
+}
+
+#subtitleEstaciones{
+    text-align: center
+
+}
+
+#stationsResult{
+    text-align: center
+}
+
+.stationsResultClass{
+    margin: 20px 20px 20px 20px;
+    padding-top: 50px
+}
+
+#map{
+    height:500px;
+    margin-left:20px
+}
+
+
+.inputInicio{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+
+.charts{
+    border: 2px solid green;
+    border-radius: 5px;
+}
+
+.loadingLabels{
+    text-align: center
+}
+
+#btnSearchByMonth{
+    margin-top: 5px;
+}
+
+label{
+    color:#414141
+}
+
+.genericText{
+    margin: 100px 0px 0px 50px;
+    text-align:center
+}
+
+.messageError{
+    text-align: center;
+    color:red
+}
+
+#inputNewSamplePeriod{
+    width:500px
+}
+
+.modalBack{
+    background:#C7C7C7;
+    margin-top: auto
+}
+
+#pastoFinal{
+    bottom:0;
+    left: 0;
+    heigth:30;
+    width: 100%;
+}
+
+
+.divFadeIn {
+   
+ -webkit-animation: fadein 2s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadein 2s; /* Firefox < 16 */
+        -ms-animation: fadein 2s; /* Internet Explorer */
+         -o-animation: fadein 2s; /* Opera < 12.1 */
+            animation: fadein 2s;
+}
+
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+
+#mapFilter{
+    text-align: center
+}
+
+
+@media only screen and (max-width: 500px) {
+    body {
+        background-color: black;
+    }
+    
+}
+
+/*----------------------Users---------------------------*/
+#listOfUsers{
+    margin-left:30%
+}
+
+#labelListOfUsers{
+    text-align: center
+}
+
