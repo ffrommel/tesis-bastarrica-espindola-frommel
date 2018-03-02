@@ -1,13 +1,11 @@
 <?php
     //Parámetros de conexión a la BD Mongo
-    define("kaaUser","kaa");
-    define("kaaPassword","kaa");
-    define("AWSIp","54.94.146.78");
-    define("DATABASE","kaa");
-    define("SCHEME","logs_09804246192781707713");
+    define("AWSIp","IP");
+    define("DATABASE","DB");
+    define("SCHEME","LOGS");
     define("SCHEMECOORD","coordenadas");
     define("SCHEMEUSERS","users");
-    define("KEYHASH","s");
+    define("KEYHASH","KH");
 
     //Parámetros de conexión a la BD MySQL
     define("MYSQLSERVER","localhost");
