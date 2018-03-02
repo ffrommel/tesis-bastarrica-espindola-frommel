@@ -11,7 +11,7 @@ import sys
 MVD = -34.887793, -56.249178#-34.894994, -56.14752
 
 #Llave de usuario
-api_key = '41d4963edf52b84b36ee1976e0eec87f'
+api_key = 'XXX'
 
 GMT = -3
 lastDay = int(sys.argv[2])
