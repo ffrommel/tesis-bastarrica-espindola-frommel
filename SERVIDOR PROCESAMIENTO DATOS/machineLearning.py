@@ -38,8 +38,8 @@ extension = fechaActual
 print(extension)
 
 # Key de AWS
-AWS_ACCESS_KEY_ID = "AKIAINKWUEQORYZFIEKA"
-AWS_SECRET_ACCESS_KEY = "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"
+AWS_ACCESS_KEY_ID = "XXX"
+AWS_SECRET_ACCESS_KEY = "YYY"
 
 # Nombre de Archivo a subir
 # file_name = "predicciones.csv"
