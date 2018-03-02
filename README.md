@@ -30,7 +30,10 @@ Códigos desarrollados en lenguajes Python y C para la recepción de nuevos Endp
 
 Códigos desarrollados en lenguajes Python y bash para realizar distintas tareas asociadas al Servidor de procesamiento de datos: exportación de datos a .csv, conexión a un servidor remoto para la ejecución de un script y la descarga de los resultados, etc.
 
-1. 
+1. DSprediction.py
+2. exportar_csv.sh
+3. machineLearning.py
+4. subir_csv_s3.py
 
 ---
 
