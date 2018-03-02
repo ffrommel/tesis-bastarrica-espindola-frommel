@@ -41,4 +41,4 @@ Códigos desarrollados en lenguajes Python y bash para realizar distintas tareas
 
 Códigos desarrollados en PHP, JavaScript, HTML y CSS para la construcción del sitio web para la visualización de los valores de las variables sensadas en el tiempo y la configuración del sistema.
 
-1.
+Por el volumen de información no se listan los archivos, contiene todos los scripts que hacen al sitio web.
