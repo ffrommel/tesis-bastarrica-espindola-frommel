@@ -34,6 +34,9 @@ Códigos desarrollados en lenguajes Python y bash para realizar distintas tareas
 2. exportar_csv.sh
 3. machineLearning.py
 4. subir_csv_s3.py
+5. acomodarCSV.py
+6. realTimePrediction_Batch.py
+7. ahoraA1Semana.py
 
 ---
 
